@@ -14,4 +14,4 @@ Google-search-hamburger
 ค้นหาคำว่า hamburgers
     Input Text    q    hamburgers
 กดตกลงเพื่อค้นหา
-    Press Keys    q
+    Press Keys    q    ENTER
